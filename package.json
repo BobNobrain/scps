@@ -1,0 +1,19 @@
+{
+  "name": "scps",
+  "version": "0.0.1",
+  "description": "JS types version of api for SCPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BobNobrain/scps.git"
+  },
+  "author": "BobNobrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BobNobrain/scps/issues"
+  },
+  "homepage": "https://github.com/BobNobrain/scps#readme"
+}
